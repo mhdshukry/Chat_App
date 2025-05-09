@@ -1,0 +1,5 @@
+TestNick: hi
+TestNick: hello
+TestNick: bye
+TestNick left: 2025-04-12T14:17:06.556882900
+Chat stopped at: 2025-04-12T14:17:06.559885900
